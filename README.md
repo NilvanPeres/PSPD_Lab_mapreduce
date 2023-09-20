@@ -1,7 +1,7 @@
 # PSPD_Lab_mapreduce
 
 
-## Ingegrantes do grupo
+## Integrantes do grupo
 | Nome | Matricula  |
 |------------|-----------
 |Leonardo da Silva Gomes |180021974
